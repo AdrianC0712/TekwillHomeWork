@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversiaTemperaturii", "ConversiaTemperaturii\ConversiaTemperaturii.csproj", "{466FCFE2-4F08-460B-9EC2-4E33EC9EB34B}"
 EndProject
@@ -10,6 +10,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalCalculSalariu", "OptionalCalculSalariu\OptionalCalculSalariu.csproj", "{6A992FBA-5858-4CAD-819E-22510889AE53}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalCalculator", "OptionalCalculator\OptionalCalculator.csproj", "{8A5ACE70-A4AD-49BA-9E01-3754060854D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionareaDataNastere", "GestionareaDataNastere\GestionareaDataNastere.csproj", "{9B13D992-15E3-4EBD-B329-23100600719C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionareaInformatiiDespreStudenti", "GestionareaInformatiiDespreStudenti\GestionareaInformatiiDespreStudenti.csproj", "{6164C95E-91AC-4F35-8241-9B46DF1E9022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiferenteTValoriSiTReferinta", "DiferenteTValoriSiTReferinta\DiferenteTValoriSiTReferinta.csproj", "{D8F3AEC1-3E58-4DC6-9614-B2CF4092162D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{8A5ACE70-A4AD-49BA-9E01-3754060854D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A5ACE70-A4AD-49BA-9E01-3754060854D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A5ACE70-A4AD-49BA-9E01-3754060854D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B13D992-15E3-4EBD-B329-23100600719C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B13D992-15E3-4EBD-B329-23100600719C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B13D992-15E3-4EBD-B329-23100600719C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B13D992-15E3-4EBD-B329-23100600719C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6164C95E-91AC-4F35-8241-9B46DF1E9022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6164C95E-91AC-4F35-8241-9B46DF1E9022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6164C95E-91AC-4F35-8241-9B46DF1E9022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6164C95E-91AC-4F35-8241-9B46DF1E9022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F3AEC1-3E58-4DC6-9614-B2CF4092162D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F3AEC1-3E58-4DC6-9614-B2CF4092162D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F3AEC1-3E58-4DC6-9614-B2CF4092162D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F3AEC1-3E58-4DC6-9614-B2CF4092162D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
