@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2. Validarea datelor de a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3. OPTIONAL Gestionarea unui inventar de produse", "Ex3. OPTIONAL Gestionarea unui inventar de produse\Ex3. OPTIONAL Gestionarea unui inventar de produse.csproj", "{C61EC831-5A35-4FBF-AE95-BEEA5DF5D688}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1 Compararea Conținutului a Două Fișiere", "Ex1 Compararea Conținutului a Două Fișiere\Ex1 Compararea Conținutului a Două Fișiere.csproj", "{36FBA324-DDA4-4525-A471-F506D04E47C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2 Mutarea Fișierelor într-un Director Nou", "Ex2 Mutarea Fișierelor într-un Director Nou\Ex2 Mutarea Fișierelor într-un Director Nou.csproj", "{1AAFE308-0850-4C71-9A47-551DE743744A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{C61EC831-5A35-4FBF-AE95-BEEA5DF5D688}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C61EC831-5A35-4FBF-AE95-BEEA5DF5D688}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C61EC831-5A35-4FBF-AE95-BEEA5DF5D688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36FBA324-DDA4-4525-A471-F506D04E47C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FBA324-DDA4-4525-A471-F506D04E47C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FBA324-DDA4-4525-A471-F506D04E47C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FBA324-DDA4-4525-A471-F506D04E47C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AAFE308-0850-4C71-9A47-551DE743744A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAFE308-0850-4C71-9A47-551DE743744A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAFE308-0850-4C71-9A47-551DE743744A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAFE308-0850-4C71-9A47-551DE743744A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
