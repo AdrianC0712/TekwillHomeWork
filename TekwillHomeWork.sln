@@ -43,6 +43,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1 Compararea Conținutulu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2 Mutarea Fișierelor într-un Director Nou", "Ex2 Mutarea Fișierelor într-un Director Nou\Ex2 Mutarea Fișierelor într-un Director Nou.csproj", "{1AAFE308-0850-4C71-9A47-551DE743744A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1 Acces controlat la o bază de date", "Ex1 Acces controlat la o bază de date\Ex1 Acces controlat la o bază de date.csproj", "{EB16F188-88A4-4D55-BE99-AF7CC95816CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2 Transfer sincronizat între două conturi cu lock pe ambele obiecte", "Ex2 Transfer sincronizat între două conturi cu lock pe ambele obiecte\Ex2 Transfer sincronizat între două conturi cu lock pe ambele obiecte.csproj", "{E5A26302-A7C0-445C-B867-E37BA9C71CB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optional Simulare parcare cu locuri limitate", "Optional Simulare parcare cu locuri limitate\Optional Simulare parcare cu locuri limitate.csproj", "{6E573F1E-62D0-4090-BA0D-807C7B9C693E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +135,18 @@ Global
 		{1AAFE308-0850-4C71-9A47-551DE743744A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AAFE308-0850-4C71-9A47-551DE743744A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AAFE308-0850-4C71-9A47-551DE743744A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB16F188-88A4-4D55-BE99-AF7CC95816CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB16F188-88A4-4D55-BE99-AF7CC95816CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB16F188-88A4-4D55-BE99-AF7CC95816CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB16F188-88A4-4D55-BE99-AF7CC95816CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A26302-A7C0-445C-B867-E37BA9C71CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A26302-A7C0-445C-B867-E37BA9C71CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A26302-A7C0-445C-B867-E37BA9C71CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A26302-A7C0-445C-B867-E37BA9C71CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E573F1E-62D0-4090-BA0D-807C7B9C693E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E573F1E-62D0-4090-BA0D-807C7B9C693E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E573F1E-62D0-4090-BA0D-807C7B9C693E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E573F1E-62D0-4090-BA0D-807C7B9C693E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

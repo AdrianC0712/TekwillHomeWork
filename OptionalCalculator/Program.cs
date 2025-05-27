@@ -38,7 +38,7 @@ namespace OptionalCalculator
                         Console.WriteLine("Impartirea la 0 nu este permisa.");
                     }
                     break;
-                    default:
+                default:
                     Console.WriteLine("Operatia nu este valida.");
                     break;
             }
